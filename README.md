@@ -1,8 +1,9 @@
-<a name="Mustafa Raad M.">
-<a name="mustafa.raad.m7@gmail.com">
-
+Mustafa Raad Mز
+mustafa.raad.m7@gmail.com
+=====
 # Python-AI-face-and-eye-detection-with-openCV
  artificial intelligence with open Computer vision. Webcam detection of eyes and face
+ ------
 ## Usage
-pip install opencv-python
-Run it with PyCharm
+#### pip install opencv-python
+#### Run it with PyCharm
